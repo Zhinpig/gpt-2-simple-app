@@ -4,3 +4,4 @@ datetime
 ipywidgets
 ipython
 voila
+google.colab
