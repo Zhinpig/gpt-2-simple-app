@@ -2,6 +2,5 @@ tensorflow==1.15.2
 gpt-2-simple
 datetime
 ipywidgets
-tarfile
 ipython
 voila
