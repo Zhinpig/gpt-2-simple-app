@@ -2,10 +2,5 @@ tensorflow==1.15.2
 gpt-2-simple
 datetime
 ipywidgets
-ipython==5.5.0
+ipython
 voila
-tornado==6.1.0
-ipykernel==4.6.0
-requests==2.21.0
-six==1.12.0
-google.colab
